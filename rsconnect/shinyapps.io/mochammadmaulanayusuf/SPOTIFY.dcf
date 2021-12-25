@@ -1,0 +1,13 @@
+name: SPOTIFY
+title: SPOTIFY
+username:
+account: mochammadmaulanayusuf
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5368902
+bundleId: 5408127
+url: https://mochammadmaulanayusuf.shinyapps.io/SPOTIFY/
+when: 1640413450.55189
+lastSyncTime: 1640413450.55189
+asMultiple: FALSE
+asStatic: FALSE
